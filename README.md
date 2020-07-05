@@ -1,4 +1,4 @@
-# Hello World :wave: <br> I'm [Mayank Pathak](http://vinitshahdeo.github.io/) :cowboy_hat_face: <br><br>
+# Hello World :wave: <br> I'm [Mayank Pathak](https://mayankpathak10299.github.io/Portfolio/) :cowboy_hat_face: <br><br>
  
 
 ```javascript
@@ -40,4 +40,4 @@ ___  ___       ______          _    __      _ _       _
 
 ```
 
-### :point_right: [Click here](https://github.com/mayankpathak10299) to visit my portfolio. 
+### :point_right: [Click here](https://mayankpathak10299.github.io/Portfolio/) to visit my portfolio. 
